@@ -12,5 +12,13 @@ Automatic Number Plate Detection and Recognition using Image processing and Deep
 
 ## Validation Results
 <p align="left">  
-<img src="https://github.com/pracool/ANPR-with-YoloV5/tree/main/readme/validation_result.png">
+<img src="https://github.com/pracool/ANPR-with-YoloV5/blob/main/readme/validation_result.png">
 </p>
+
+## Trained Weights
+The final trained weights can be downloaded from this link - https://drive.google.com/file/d/1-NCjC8-OZp9TxpWinHLEfLwUnG7hlqrN/view?usp=sharing
+
+## Training Procedure
+The training procedure can be found in the ipynb file - https://github.com/pracool/ANPR-with-YoloV5/blob/main/ANPR_plate_detection.ipynb
+
+
