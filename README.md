@@ -8,11 +8,15 @@ Automatic Number Plate Detection and Recognition using Image processing and Deep
 
 ## YOLOv5
 * Yolov5 pretrained architecture serve as basis of the trained network
-#### Clone the DarkNet repo - https://github.com/ultralytics/yolov5
+#### Link to yolov5 repo - https://github.com/ultralytics/yolov5
 
 ## Validation Results
+
 <p align="left">  
 <img src="https://github.com/pracool/ANPR-with-YoloV5/blob/main/readme/validation_result.png">
+</p>
+<p align="right">  
+<img src="https://github.com/pracool/ANPR-with-YoloV5/blob/main/readme/result_anpr.jpg">
 </p>
 
 ## Trained Weights
